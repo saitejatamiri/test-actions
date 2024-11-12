@@ -20,4 +20,4 @@ jobs:
       
       - name: Run Python script
         run: python main.py
-        run: pip install
+             | pip install
